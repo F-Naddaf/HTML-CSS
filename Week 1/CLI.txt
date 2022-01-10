@@ -5,12 +5,6 @@ A1.  $ touch test.txt   ( creating new empty file ).
      $ mv test.txt .test.txt   ( making the file is hidden in Command line interface only ).
      $ ls -a    ( to print <view> all the files & directory including the hidden ).
 
-Note: to make the file or directory hidden on the PC only but still will be showing when using command <ls>.
-    $ attrib +h +s test.txt
-to show it again write same command but changing +h to -h.
-    $ attrib -h -s test.txt
-
-
 
 Q2. How do I create multiple nested directories, like /c/Users/myusername/these/folders/are/just/for/fun?
 
