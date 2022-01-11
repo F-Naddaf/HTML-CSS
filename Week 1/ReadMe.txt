@@ -1,6 +1,6 @@
 HOMEWROK
 
-CLI Command Line.
+CLI Command Line Interface.
 Writing the answer of the CLI questions with the explanation of the codes.
 
 Digital Resume.
